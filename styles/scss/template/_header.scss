@@ -1,0 +1,9 @@
+.logo {
+    max-width: 300px;
+    @include media-breakpoint-down(sm) {
+        max-width: 100px;
+    }
+}
+header {
+    z-index: 9;
+}

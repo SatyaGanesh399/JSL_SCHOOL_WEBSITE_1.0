@@ -1,0 +1,16 @@
+.main_navbar {
+    li {
+        a:not(.dropdown-item) {
+            color: $white;
+        }
+        &.active {
+            @extend .bg-warning;
+            a:not(.dropdown-item) {
+                @extend .text-dark;
+            }
+        }
+        .dropdown-item:not(.active) {
+            @extend .text-dark;
+        }
+    }
+}

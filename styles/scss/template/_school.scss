@@ -1,0 +1,30 @@
+.e_school {
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        transition: all 0.4s ease-in-out;
+        transform: scale(0);
+        .title {
+            font-size: 2em;
+        }
+        &-primary {
+            @include overlay($primary, 0.8);
+        }
+        &-warning {
+            @include overlay($warning, 0.8);
+        }
+    }
+    &:hover {
+        .overlay {
+            transition: all 0.4s ease-in-out;
+            transform: scale(1);
+        }
+    }
+}

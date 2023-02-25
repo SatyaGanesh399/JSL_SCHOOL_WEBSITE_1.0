@@ -1,0 +1,19 @@
+#facilitators {
+    .card {
+        .overlay {
+            bottom: -100%;
+            left: 0;
+            right: 0;
+            @include overlay(#ffffff, 0.9);
+            @include transition();
+        }
+        &:hover,
+        &:focus,
+        &:active {
+            .overlay {
+                @include transition();
+                bottom: 0;
+            }
+        }
+    }
+}

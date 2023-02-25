@@ -1,0 +1,93 @@
+[
+    {
+        "img": "Y_Rama.jpg",
+        "name": "Mrs. Yeturi Rama Srinivas",
+        "role": "Coordinator",
+        "qualification": "B.A.,  P.P.T.T.C.",
+        "experience": "30 years in Education domain"
+    },
+    {
+        "img": "TV_Akhila.jpg",
+        "name": "Mrs. Tirumala Vinjamuru Akhila",
+        "role": "Activity Coordinator",
+        "qualification": "B.Com., P.P.T.T.C.",
+        "experience": "22 years in Education domain"
+    },
+    {
+        "img": "NF_Nirupama.jpg",
+        "name": "Mrs. N. F. Nirupama James",
+        "role": "(Librarian, English Facilitator)",
+        "qualification": "M. A.(English), B.Ed., T.E.T.",
+        "experience": "20 years in Education domain"
+    },
+    {
+        "img": "S_Rajitha.jpg",
+        "name": "Mrs. Sama Rajitha Lakshmi",
+        "role": "(Middle School Facilitator)",
+        "qualification": "B.Sc.(Computer Science), M.B.A.(H.R.)",
+        "experience": ""
+    },
+    {
+        "img": "R_Vishala.jpg",
+        "name": "Mrs. Rupanagudi Vishala",
+        "role": "(Middle School Facilitator)",
+        "qualification": "B. Tech. (I.T.)",
+        "experience": "11 years Experience - as Maths teacher"
+    },
+    {
+        "img": "Eswari.jpg",
+        "name": "Mrs. Jonnalagadda N.M.Eswari",
+        "role": "(Lower School Facilitator)",
+        "qualification": "B.Sc.,B.Ed.(Maths)",
+        "experience": ""
+    },
+    {
+        "img": "Sravanthi.jpg",
+        "name": "Mrs. Alli Sravanthi",
+        "role": "(Lower School Facilitator)",
+        "qualification": "B.S.C.(B.Z.C.)",
+        "experience": ""
+    },
+    {
+        "img": "G_Renuka.jpg",
+        "name": "Mrs. Renuka Ghawalkar",
+        "role": "(Middle School Facilitator)",
+        "qualification": "B.A., H.P.T - Hindi Pundit Training",
+        "experience": ""
+    },
+    {
+        "img": "K_Vedavathi.jpg",
+        "name": "Mrs. K. Vedavathi",
+        "role": "(Middle School Facilitator)",
+        "qualification": "B.A., T.P.T. - Telugu Pundit Training",
+        "experience": ""
+    },
+    {
+        "img": "Vishalakshi.jpg",
+        "name": "Mrs. Vishalakshi",
+        "role": "(Lower School Facilitator)",
+        "qualification": "B.Com., H.P.T - Hindi Pundit Training",
+        "experience": ""
+    },
+    {
+        "img": "V_Suma.jpg",
+        "name": "Mrs. Varnakavi Suma Latha",
+        "role": "(Lower School Facilitator &amp; Stores Management)",
+        "qualification": "BA ( Economics)",
+        "experience": ""
+    },
+    {
+        "img": "D_Saritha.jpg",
+        "name": "Mrs. Dandala Saritha",
+        "role": "(General Administration)",
+        "qualification": "B.Com., MS Office, Type writing Higher",
+        "experience": ""
+    },
+    {
+        "img": "Srujana.jpg",
+        "name": "Dheeravath Srujana Naik",
+        "role": "(Physical Trainer, Sports Administration)",
+        "qualification": "BBA LL.B. Black Belt DAN-1",
+        "experience": "INTERNATIONAL Gold Medalist, <br> South Zone National Gold Medalist. <br> Class 3 Referee <br> Represented Telangana State and Medchal Malkajgiri district in several tournaments."
+    }
+]

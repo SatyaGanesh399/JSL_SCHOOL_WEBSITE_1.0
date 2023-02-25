@@ -1,0 +1,13 @@
+p {
+    font-size: 1.2rem !important;
+}
+.text-limit {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: box;
+    line-clamp: 2; /* number of lines to show */
+    box-orient: vertical;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
+}

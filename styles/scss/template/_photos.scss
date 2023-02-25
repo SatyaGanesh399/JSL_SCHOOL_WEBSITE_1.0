@@ -1,0 +1,21 @@
+.gallery_photos {
+    column-count: 4;
+    column-gap: 2em;
+    @include media-breakpoint-down(md) {
+        column-count: 2;
+    }
+    @include media-breakpoint-down(sm) {
+        column-count: 1;
+    }
+}
+.school_photos,
+#awards_list {
+    column-count: 2;
+    column-gap: 2em;
+    @include media-breakpoint-down(sm) {
+        column-count: 1;
+    }
+}
+.pointer {
+    cursor: pointer;
+}
